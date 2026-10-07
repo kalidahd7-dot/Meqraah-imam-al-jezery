@@ -1,0 +1,16 @@
+{
+  "name": "imam-al-jazari-bot",
+  "version": "1.0.0",
+  "description": "Imam Al-Jazari Maqraah Telegram Bot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
